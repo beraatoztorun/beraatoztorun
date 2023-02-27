@@ -1,6 +1,6 @@
 <div class="container" style="height: 100%; width: 100%;">
         <h1 style="text-align: center; font-family: sans-serif;">Hi 👋, I'm Beraat Öztorun</h1>
-        <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I enjoy following the electric-electronic and software industry and doing projects in this area. I am also interested <br>in producing music. I am actively sharing projects on my Spotify, Apple Music Deezer Accounts.</p>
+        <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I enjoy following the Electric-Electronic Enginnering and Software industry and doing projects in this area. I am interested in producing music. I am actively sharing music on my Spotify, Apple Music, Deezer Accounts.</p>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Contact me</h1>
         <div class="social-media" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
             <a href="https://instagram.com/beraatoztorunn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494488.png" alt="instagram" style="height: 60px; width: 60px;"></a>
