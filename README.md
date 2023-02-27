@@ -1,2 +1,22 @@
-# readme
-READ ME !
+<div class="container" style="height: 100%; width: 100%;">
+        <h1 style="text-align: center; font-family: sans-serif;">Hi 👋, I'm Beraat Öztorun</h1>
+        <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I enjoy following the electric-electronic and software industry and doing projects in this area. I am also interested <br>in producing music. I am actively sharing projects on my Spotify, Apple Music Deezer Accounts.</p>
+        <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Contact me</h1>
+        <div class="social-media" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
+            <a href="https://instagram.com/beraatoztorunn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494488.png" alt="instagram" style="height: 60px; width: 60px;"></a>
+            <a href="https://linkedin.com/in/beraatoztorun" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" style="height: 60px; width: 60px;"></a>
+            <a href="https://www.linktr.ee/beraat" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3844/3844724.png" alt="linktree" style="height: 60px; width: 60px;"></a>
+        </div>
+        <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Languages and Tools</h1>
+        <div class="lang-tools" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="60" height="60"/>
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="c" width="60" height="60"/>
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
+        </div>
+        <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Statistics</h1>
+        <div class="stats" style="display: flex; justify-content: center; flex-direction: row; column-gap: 40px;">
+            <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesmuzaffer22&show_icons=true&locale=en&layout=compact" alt="enesmuzaffer22" /></p>
+            <p><img src="https://github-readme-stats.vercel.app/api?username=beraatoztorun&show_icons=true&locale=en" alt="README" /></p>
+        </div>
+    </div>
