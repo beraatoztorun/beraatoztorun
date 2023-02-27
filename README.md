@@ -14,9 +14,5 @@
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
         </div>
-        <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Statistics</h1>
-        <div class="stats" style="display: flex; justify-content: center; flex-direction: row; column-gap: 40px;">
-            <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesmuzaffer22&show_icons=true&locale=en&layout=compact" alt="enesmuzaffer22" /></p>
-            <p><img src="https://github-readme-stats.vercel.app/api?username=beraatoztorun&show_icons=true&locale=en" alt="README" /></p>
         </div>
     </div>
