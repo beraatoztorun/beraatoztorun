@@ -12,7 +12,8 @@
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="60" height="60"/>
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="c" width="60" height="60"/>
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
+            <img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="photoshop" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="60" height="60"/>
         </div>
         </div>
     </div>
