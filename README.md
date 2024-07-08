@@ -15,7 +15,4 @@
             <img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="photoshop" width="60" height="60"/>
             <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="60" height="60"/>
             <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="androidstudio" width="60" height="60"/>    
-                
-        </div>
-        </div>
     </div>
