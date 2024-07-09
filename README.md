@@ -2,7 +2,9 @@
   <h1> Beraat | Öztorun </h1>
   <a title="Who Am I" href="https://linktr.ee/beraatoztorun"><img src="https://www.icmimarlikdergisi.com/wp-content/uploads/2017/04/desk7_icmimarlikdergisi.gif" style="width: 290px;" alt="WeCanCodeIt"> </a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" title="Top Used Languages"><img style="width: 290px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" alt="Top Used Languages"></a> 
   
-  <a title="Streak Stats" href="https://github-readme-streak-stats.herokuapp.com/?user=beraatoztorun&theme=darcula"><img style="height: 120px;"  alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=beraatoztorun&theme=darcula"></a> <a href="https://github-readme-stats.vercel.app/api?username=beraatoztorun" title="GitHub Stats"><img alt="GitHub Stats" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=beraatoztorun&theme=darcula&show_icons=true"></a> 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=beraatoztorun&theme=burnt-neon" alt="GitHub Streak" /></a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=beraatoztorun" title="GitHub Stats"><img alt="GitHub Stats" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=beraatoztorun&theme=darcula&show_icons=true"></a> 
 </section> 
 
 ---
