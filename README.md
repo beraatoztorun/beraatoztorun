@@ -1,18 +1,59 @@
-<div class="container" style="height: 100%; width: 100%;">
-        <h1 style="text-align: center; font-family: sans-serif;">Hello 👋🏻, I'm Beraat Öztorun</h1>
-        <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I enjoy following the Electric-Electronic Engineering and Software industry and doing projects in this area. I am interested in producing music. I am actively sharing music on my Spotify, Apple Music, Deezer Accounts.</p>
-        <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Contact me</h1>
-        <div class="social-media" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
-            <a href="https://instagram.com/beraatoztorunn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494488.png" alt="instagram" style="height: 60px; width: 60px;"></a>
-            <a href="https://linkedin.com/in/beraatoztorun" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" style="height: 60px; width: 60px;"></a>
-            <a href="https://www.linktr.ee/beraat" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3844/3844724.png" alt="linktree" style="height: 60px; width: 60px;"></a>
-        </div>
-        <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Languages and Tools</h1>
-        <div class="lang-tools" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
-            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="60" height="60"/>
-            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="c" width="60" height="60"/>
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
-            <img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="photoshop" width="60" height="60"/>
-            <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="60" height="60"/>
-            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="androidstudio" width="60" height="60"/>    
-    </div>
+<section align="center">
+  <h1> Beraat | Öztorun </h1>
+  <a title="Who Am I" href="https://linktr.ee/beraatoztorun"><img src="https://www.icmimarlikdergisi.com/wp-content/uploads/2017/04/desk7_icmimarlikdergisi.gif" style="width: 290px;" alt="WeCanCodeIt"> </a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" title="Top Used Languages"><img style="width: 290px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" alt="Top Used Languages"></a> 
+  
+  <a title="Streak Stats" href="https://github-readme-streak-stats.herokuapp.com/?user=beraatoztorun&theme=darcula"><img style="height: 120px;"  alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=beraatoztorun&theme=darcula"></a> <a href="https://github-readme-stats.vercel.app/api?username=beraatoztorun" title="GitHub Stats"><img alt="GitHub Stats" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=beraatoztorun&theme=darcula&show_icons=true"></a> 
+</section> 
+
+---
+<section align="center">  
+Hey!
+
+I am Beraat, a.k.a. EvinDelisi. I started my coding journey while studying my third year of high school, and through my career journey in music🎶, sport🏀, and tech industries, I realized I wanted to spend my life surrounded by electric-electronic⚡ and coding👨🏻‍💻 Thus, I am exploring ways to express myself through electric-electronic, music and programming.
+
+
+---
+<section align="center">
+
+# :space_invader: Tech Stack
+<a href="https://dart.dev" title="Dart"><img height="40" alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png"></a> <a href="https://www.programiz.com/c-programming" title="C"><img height="40" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></a> <a href="https://www.python.org" title="Python"><img height="40" alt="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></a> <a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="40" alt="HTML5"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a> <a href="https://www.css3.com/" title="CSS3"><img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png"></a>
+
+
+# 🤺 Tools • Frameworks • Libraries
+
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="40" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"></a> <a href="https://developer.android.com/studio" title="Android Studio"><img height="40" alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png"></a> <a href="https://flutter.dev" title="Flutter"><img height="40" alt="Flutter" src="https://www.svgrepo.com/show/353751/flutter.svg"></a> <a href="https://www.adobe.com/tr/products/photoshop.html" title="Photoshop"><img height="40" alt="Photoshop" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png"></a> <a href="https://www.figma.com/" title="Figma"><img height="40" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"></a> <a href="https://www.canva.com/" title="Canva"><img height="40" alt="Canva" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png"></a><a href="https://www.image-line.com/" title="FL Studio"><img height="50" alt="FL Studio" src="https://upload.wikimedia.org/wikipedia/fr/e/ef/FL-Studio-12-Logo.png"></a><a href="https://www.bloodshed.net" title="Dev-C++"><img height="40" alt="Dev-C++" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png"></a>
+
+
+
+
+# 👀 Platforms / Contact <a name="platforms"></a>
+  <a href="https://www.linkedin.com/in/beraatoztorun/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.instagram.com/beraatoztorunn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+  <a href="mailto:beraatoztorun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="https://discordapp.com/users/716016013841268839"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+  <a href="https://steamcommunity.com/id/beraatozt/"><img src="https://img.shields.io/badge/steam-12618F?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"></a>
+  
+
+# 🖼️ Some Certificates
+<a title="Google Proje Yönetimi" href="https://www.linkedin.com/in/beraatoztorun/details/certifications/1718841119768/single-media-viewer/?profileId=ACoAADBww1AB4YgkYhei6p4MLEGNqTr0g0CDHtw"><img height="130" alt="Google Proje Yönetimi" align="center" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JKFU3RYBPUNR/CERTIFICATE_LANDING_PAGE~JKFU3RYBPUNR.jpeg"></a> <a title="C | Sıfırdan İleri Seviyeye Komple C Programlama" href="https://www.linkedin.com/in/beraatoztorun/details/certifications/1716649117585/single-media-viewer/?profileId=ACoAADBww1AB4YgkYhei6p4MLEGNqTr0g0CDHtw"><img height="130" alt="C | Sıfırdan İleri Seviyeye Komple C Programlama" align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-a8c05010-2249-4861-94c8-73bcc58bfe7a.jpg?v=1716648914000"></a> <a title="AutoCad : Sıfırdan Uzmanlığa Eğitim Seti" href="https://www.udemy.com/certificate/UC-43a6d51d-05c0-428c-8676-6b31e3b3affd/"><img height="130" alt="AutoCad : Sıfırdan Uzmanlığa Eğitim Seti" align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-43a6d51d-05c0-428c-8676-6b31e3b3affd.jpg?v=1684342108000"></a> 
+
+<a href="https://www.linkedin.com/in/beraatoztorun/details/certifications/"><img src="https://img.shields.io/badge/More Certificates-red?style=for-the-badge&logoColor=white" alt="More Certificates"></a>
+
+
+-------------------------------------
+
+# 🏃 What am I up to these days?
+
+-🐦 I’m currently working on Flutter, C++, and Python.
+- 🗨️ You can always poke me from <a href="https://discordapp.com/users/716016013841268839">Discord</a> - or any other platform that fits you - about anything related to coding, technology, producing music etc., or just for chit-chat. 🧡
+
+---
+
+
+## 🐇 Moods in General:
+<section align="center">
+  <img src="https://i.giphy.com/vFtWp05vBYnMQ.webp" width="200" alt="ProduceMusicCat">
+  <img src="https://i.giphy.com/VekcnHOwOI5So.webp" height="200" alt="CodingCat">
+  <img src="https://i.giphy.com/12bjQ7uASAaCKk.webp" height="200" alt="CatJumping">
+</section>
+
