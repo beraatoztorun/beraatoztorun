@@ -1,5 +1,5 @@
 <section align="center">
-  <h1> Beraat | Öztorun </h1>
+  <h1> 👨‍💻 Beraat Öztorun ⚡ </h1>
   <a title="Who Am I" href="https://linktr.ee/beraatoztorun"><img src="https://www.icmimarlikdergisi.com/wp-content/uploads/2017/04/desk7_icmimarlikdergisi.gif" style="width: 300px;" alt="WeCanCodeIt"> </a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" title="Top Used Languages"><img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" alt="Top Used Languages"></a> 
   
 <a href="https://git.io/streak-stats"><img style="height: 160px;" src="https://github-readme-streak-stats.herokuapp.com?user=beraatoztorun&theme=darcula" alt="GitHub Streak" /></a> <a href="https://github-readme-stats.vercel.app/api?username=beraatoztorun" title="GitHub Stats"><img alt="GitHub Stats" style="height: 160px;" src="https://github-readme-stats.vercel.app/api?username=beraatoztorun&theme=darcula&show_icons=true"></a> 
