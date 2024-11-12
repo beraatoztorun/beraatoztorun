@@ -29,7 +29,7 @@ I am Beraat, a.k.a. EvinDelisi. I started my coding journey while studying my th
 # 👀 Platforms / Contact <a name="platforms"></a>
   <a href="https://www.linkedin.com/in/beraatoztorun/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.instagram.com/beraatoztorunn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-  <a href="mailto:beraatoztorun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="mailto:contact@beraatoztorun.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
   <a href="https://discordapp.com/users/716016013841268839"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
   <a href="https://steamcommunity.com/id/beraatozt/"><img src="https://img.shields.io/badge/steam-12618F?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"></a>
   
