@@ -1,8 +1,8 @@
 <section align="center">
   <h1> 👨‍💻 Beraat Öztorun ⚡ </h1>
-  <a title="Who Am I" href="https://linktr.ee/beraatoztorun"><img src="https://www.icmimarlikdergisi.com/wp-content/uploads/2017/04/desk7_icmimarlikdergisi.gif" style="width: 300px;" alt="WeCanCodeIt"> </a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" title="Top Used Languages"><img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beraatoztorun&theme=darcula" alt="Top Used Languages"></a> 
+  <a title="Who Am I" href="https://linktr.ee/beraatoztorun"><img src="https://www.icmimarlikdergisi.com/wp-content/uploads/2017/04/desk7_icmimarlikdergisi.gif" style="width: 300px;" alt="WeCanCodeIt"> </a>
   
-<a href="https://git.io/streak-stats"><img style="height: 160px;" src="https://github-readme-streak-stats.herokuapp.com?user=beraatoztorun&theme=darcula" alt="GitHub Streak" /></a> <a href="https://github-readme-stats.vercel.app/api?username=beraatoztorun" title="GitHub Stats"><img alt="GitHub Stats" style="height: 160px;" src="https://github-readme-stats.vercel.app/api?username=beraatoztorun&theme=darcula&show_icons=true"></a> 
+<a href="https://git.io/streak-stats"><img style="height: 160px;" src="https://github-readme-streak-stats.herokuapp.com?user=beraatoztorun&theme=darcula" alt="GitHub Streak" /></a>
 </section> 
 
 ---
@@ -16,7 +16,15 @@ I am Beraat, a.k.a. EvinDelisi. I started my coding journey while studying my th
 <section align="center">
 
 # :space_invader: Tech Stack
-<a href="https://dart.dev" title="Dart"><img height="40" alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png"></a> <a href="https://www.programiz.com/c-programming" title="C"><img height="40" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></a> <a href="https://www.python.org" title="Python"><img height="40" alt="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></a> <a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="40" alt="HTML5"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a> <a href="https://www.css3.com/" title="CSS3"><img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png"></a>
+<a href="https://dart.dev" title="Dart"><img height="40" alt="Dart" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000"></a> 
+
+<a href="https://www.programiz.com/c-programming" title="C"><img height="40" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></a> 
+
+<a href="https://www.python.org" title="Python"><img height="40" alt="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></a> 
+
+<a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="40" alt="HTML5"  src="https://icons8.com/icon/20909/html-5"></a> 
+
+<a href="https://www.css3.com/" title="CSS3"><img height="40" alt="CSS3" src="https://icons8.com/icon/21278/css3"></a>
 
 
 # 🤺 Tools • Frameworks • Libraries
@@ -53,7 +61,7 @@ I am Beraat, a.k.a. EvinDelisi. I started my coding journey while studying my th
 ## 🐇 Moods in General:
 <section align="center">
   <img src="https://i.giphy.com/vFtWp05vBYnMQ.webp" width="200" alt="ProduceMusicCat">
-  <img src="https://i.giphy.com/VekcnHOwOI5So.webp" height="200" alt="CodingCat">
+  <img src="https://giphy.com/embed/7NoNw4pMNTvgc" height="200" alt="CodingCat">
   <img src="https://i.giphy.com/12bjQ7uASAaCKk.webp" height="200" alt="CatJumping">
 </section>
 
